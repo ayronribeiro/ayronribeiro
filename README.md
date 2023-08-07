@@ -1,4 +1,4 @@
- ## Olá! Eu sou o Ayron Ribeiro 🖐️Cancel changes
+ ## Olá! Eu sou o Ayron Ribeiro 🖐️
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayronrr)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/ayronrr) 
 
