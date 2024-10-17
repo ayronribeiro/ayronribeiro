@@ -1,6 +1,3 @@
- ## Olá! Eu sou o Ayron Ribeiro 🖐️
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayronrr)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/ayronrr) 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayronribeiro&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayronribeiro&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
