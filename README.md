@@ -1,20 +1,19 @@
  ## Olá! Eu sou o Ayron Ribeiro 🖐️
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayronrr)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/ayronrr) 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayronribeiro&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayronribeiro&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+| ----------- | ----------- |
 
 <div align="center">
-  <a href="https://github.com/ayronribeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayronribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayronribeiro&layout=compact&langs_count=7&theme=tokyonight"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+</a>
+<br />
 </div>
-## Tecnologias que eu uso no meu dia
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</div><br/> 
- 
+## 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayronribeiro&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
