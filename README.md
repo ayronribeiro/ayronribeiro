@@ -1,3 +1,7 @@
+<h1>Hey 🖐️ whats up?</h1>
+<br><br>
+<p> I'm Ayron, a Computer Technician and Software Engineer. Enthusiastic about Cybersecurity. Working with full-stack development.</p>
+
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayronribeiro&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayronribeiro&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
 | ----------- | ----------- |
 
