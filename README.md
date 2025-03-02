@@ -3,7 +3,7 @@
 <p>Sou um Desenvolvedor Front-End com mais de 5 anos de experiência, especializado em WordPress, Angular e Strapi. Tenho forte conhecimento em desenvolvimento web, customização de páginas e integração de APIs. Pós-graduado em Cybersecurity, aplico princípios de segurança para criar aplicações mais robustas. Atualmente, estou expandindo meus conhecimentos em Engenharia de Dados para aprimorar a escalabilidade e integração de sistemas.</p>
 <p>Não deixe de conferir meu portfólio: ayron-portfolio.vercel.app e de entrar em contato:</p>
 <p> 
-<a href="[https://www.linkedin.com/in/olstayna/](https://www.linkedin.com/in/ayron-ribeiro-rivero/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/ayron-ribeiro-rivero"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>
 <a href="mailto:ayronribeiro.rr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge"></a>
 </p>
 
