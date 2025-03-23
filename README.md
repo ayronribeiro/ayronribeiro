@@ -1,9 +1,8 @@
-# <img src="https://user-images.githubusercontent.com/67444028/142769377-f02346ad-3e36-43f2-b530-5aaa499331c0.gif" width="35">&nbsp;<b>Olá! Seja bem vindo ao meu GitHub :) </b>
+# <img src="https://user-images.githubusercontent.com/67444028/142769377-f02346ad-3e36-43f2-b530-5aaa499331c0.gif" width="35">&nbsp;<b>Hi! I'm Ayron! :) </b>
 
-<p>Sou um Desenvolvedor Front-End com mais de 5 anos de experiência, especializado em WordPress, Angular e Strapi. Tenho forte conhecimento em desenvolvimento web, customização de páginas e integração de APIs. Pós-graduado em Cybersecurity, aplico princípios de segurança para criar aplicações mais robustas. Atualmente, estou expandindo meus conhecimentos em Engenharia de Dados para aprimorar a escalabilidade e integração de sistemas.</p>
-<p>Não deixe de conferir meu portfólio: ayron-portfolio.vercel.app e de entrar em contato:</p>
+<p>I'm a Software Developer with over 5 years of experience, working on real-world projects, including international ones. I have a postgraduate degree in Cybersecurity, which helps me build secure and scalable applications.</p>
+<p>Não deixe de conferir meu portfólio: [ayron-portfolio.vercel.app](https://ayronrivero.vercel.app/) e de entrar em contato:</p>
 <p> 
-<a href="https://www.linkedin.com/in/ayron-ribeiro-rivero"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"></a>
 <a href="mailto:ayronribeiro.rr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge"></a>
 </p>
 
