@@ -1,8 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/67444028/142769377-f02346ad-3e36-43f2-b530-5aaa499331c0.gif" width="35">&nbsp;<b>Hi! I'm Ayron! :) </b>
 
 <p>I'm a Software Developer with over 5 years of experience, working on real-world projects, including international ones. I have a postgraduate degree in Cybersecurity, which helps me build secure and scalable applications.</p>
-<p>Não deixe de conferir meu portfólio:
- Access my portfolio here (https://ayronrivero.vercel.app) and contact me!:</p>
+<p> Access my portfolio here (https://ayronrivero.vercel.app) and contact me!:</p>
 <p> 
 <a href="mailto:ayronribeiro.rr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge"></a>
 </p>
