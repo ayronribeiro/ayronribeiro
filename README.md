@@ -1,6 +1,6 @@
 I'm all about solving tough problems and figuring out how everything works behind the scenes. Breaking things, fixing them, and learning in the process :)
 
-Stacks: **Node JS(Javascript/Typescript), PHP, Java (Spring), MySQL, PostgreSQL, React, Next.js, Angular, Tailwind CSS, Strapi, Wordpress, MongoDB, Supabase, Firebase, Cloud Computing.**
+Stacks: **Javascript Typescript,Node JS, PHP, MySQL, PostgreSQL, React, Next.js, Angular, Tailwind CSS, Strapi, Wordpress, MongoDB, Supabase, Firebase, Cloud Computing.**
 
 Github Stats:
 
